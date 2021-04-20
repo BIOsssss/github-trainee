@@ -1,1 +1,2 @@
 C:\Users\Игорь\Documents\Visual Studio 2015\Projects\trainee\trainee\bin\Debug\trainee.exe.config
+C:\Users\Игорь\Documents\GitHub\github-trainee\trainee\trainee\bin\Debug\trainee.exe.config

@@ -16,5 +16,32 @@ namespace trainee
         {
             InitializeComponent();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            switch (comboBox1.SelectedIndex)
+            {
+                case 0:
+                    {
+                        Form add = new Add();
+                        add.Show();
+                        break;
+                    }
+                case 1:
+                    {
+                        Form del = new Delete();
+                        del.Show();
+                        break;
+                    }
+                case 2:
+                    {
+                        break;
+                    }
+                case 3:
+                    {
+                        break;
+                    }
+            }
+        }
     }
 }

@@ -1,0 +1,7 @@
+It is necessary to develop a program for accounting for employees using OOP tools.
+The program should implement the following functions:
+- displaying a list of employees;
+- hiring a new employee:
+- firing an employee;
+- search for an employee by name;
+- display statistics (number of employees, average salary, etc.)
